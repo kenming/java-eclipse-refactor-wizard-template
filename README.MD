@@ -9,6 +9,8 @@ https://help.eclipse.org/neon/index.jsp?topic=%2Forg.eclipse.jdt.doc.user%2Frefe
 幾個常用重構類型的簡單說明與操作錄影教學：
 
 * 提煉方法 (eXtract method) 
+  https://www.facebook.com/groups/softthinking/permalink/972077856331118/
+  
 * 變更方法簽章 (Change Method signature)  
 * 重新命名 (Rename Code Symbol)  
 * 提煉介面 (eXtract interface)  
